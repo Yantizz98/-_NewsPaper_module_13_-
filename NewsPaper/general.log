@@ -1,0 +1,6 @@
+ INFO Watching for file changes with StatReloader autoreloadC:\Users\Анастасия\PycharmProjects\Django-project\venv\Lib\site-packages\django\utils\autoreload.py 2023-09-10 20:50:15,632
+2023-09-10 21:08:51,404 INFO Watching for file changes with StatReloader autoreloadC:\Users\Анастасия\PycharmProjects\Django-project\venv\Lib\site-packages\django\utils\autoreload.py
+2023-09-10 21:17:46,069 INFO C:\Users\Анастасия\PycharmProjects\Django-project\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\Анастасия\PycharmProjects\Django-project\venv\Lib\site-packages\django\utils\autoreload.py
+2023-09-10 21:17:48,311 INFO Watching for file changes with StatReloader autoreloadC:\Users\Анастасия\PycharmProjects\Django-project\venv\Lib\site-packages\django\utils\autoreload.py
+2023-09-10 21:19:36,667 INFO C:\Users\Анастасия\PycharmProjects\Django-project\NewsPaper\NewsPaper\settings.py changed, reloading. autoreloadC:\Users\Анастасия\PycharmProjects\Django-project\venv\Lib\site-packages\django\utils\autoreload.py
+[INFO] , 2023-09-11 21:05:18,926 : Watching for file changes with StatReloader - autoreload - C:\Users\Анастасия\PycharmProjects\Django-project\venv\Lib\site-packages\django\utils\autoreload.py
